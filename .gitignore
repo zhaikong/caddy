@@ -28,4 +28,5 @@ caddy-dist
 
 # IDE files
 .idea/
-.vscode/
+config.bat
+node_modules
